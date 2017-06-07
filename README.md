@@ -11,6 +11,8 @@ npm run dev
 # 使用vue-cli创建
 
 # 初步试用vuex,vue-router
+
+# 带增加，保存读取本地store，删除，选中
  
 ```
 
